@@ -1,0 +1,2 @@
+# EC601
+Project2_2.py retrieves the likes, mentions and tweets of the @botometer user on twitter and writes the results to different txt files. The txt files entitled botometerlikes.txt, botometermentions.txt and botometertweets.txt include the most recent 3200 (if possible) likes, mentions and tweets respectively of @botometer. The text file entitled tweetinfo.txt includes the author ids, time stamps and languages of the 20 most recent tweets across the platform containing the the key word music. Only original tweets were collected as retweets were excluded.
