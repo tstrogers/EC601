@@ -20,3 +20,8 @@ The create tweet method are surrounded by try except blocks to account for twitt
 OpenWeatherMap API:
 
 If a 404 error is caught, a message is printed stating that the chosen city has not been found or the input URL is incorrect.
+
+AUTOMATING THE SCRIPT
+
+The script can be automated by creating an exe file of the script using the command: pyinstaller --onefile [NAME_OF_FILE] and then using crontab -e to set the time, date and frequency of running the script. Use crontab.guru for help setting the time, data and frequency parameters. It is important to ensure that the modules used in the script are in the same path as pyinstaller, else there may be importation errors.
+
