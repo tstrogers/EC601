@@ -18,4 +18,15 @@ Example output:
 <img width="868" alt="Screen Shot 2022-12-19 at 10 11 09 PM" src="https://user-images.githubusercontent.com/93225913/208567251-74b771aa-c849-4900-a533-1b2f280be2f9.png">
 
 
+#Code Explanation
+
+The twitter API is used to search tweets of the client who is in this case botometer. The botometer twitter account is identified by a unique ID. A newly named file is opened before each method is called. The method dictates if the most recent likes, etc are collected. The twitter API can only be used with tokens/keys issued by twitter.
+
+<img width="1068" alt="Screen Shot 2022-12-19 at 10 57 21 PM" src="https://user-images.githubusercontent.com/93225913/208571589-e4dfc3ba-7b5b-4c5c-9471-428e0556ad14.png">
+
+
+<img width="873" alt="Screen Shot 2022-12-19 at 10 57 44 PM" src="https://user-images.githubusercontent.com/93225913/208571640-c885c244-f247-4c61-8337-5979401564b7.png">
+
+
+
 
