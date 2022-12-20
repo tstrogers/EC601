@@ -18,7 +18,7 @@ The app also uses the OpenWeatherMap API to create an object with the needed API
 
 #Example Code
 
-<img width="817" alt="Screen Shot 2022-12-19 at 10 33 41 PM" src="https://user-images.githubusercontent.com/93225913/208572420-aaa4696c-9464-483a-98cb-dec9a9c69c6c.png">
+<img width="731" alt="Screen Shot 2022-12-19 at 11 10 52 PM" src="https://user-images.githubusercontent.com/93225913/208573155-b2a1fff7-a71d-4830-a82a-f4f0a487e996.png">
 
 
 ERROR HANDLING
